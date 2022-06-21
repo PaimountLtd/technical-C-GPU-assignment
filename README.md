@@ -23,7 +23,6 @@ You will be building a C++ program that will render video files on the user scre
 # Please consider the following requirements:
 
  - The operating system should be Windows 10/11
- - CMAKE should be used to configure the project
  - GIT should be used along with github
  - A modern version of DirectX should be used. You are free to choose the one you are most confortable with as long as it's not too old. DirectX 11 should be the minimum
  - This assignment should use the C++ 17 standard
