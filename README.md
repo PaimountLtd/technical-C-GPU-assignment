@@ -9,7 +9,7 @@ At Streamlabs we are committed to building a talented, empathic, and passionate 
 You will be building a C++ program that will render video files on the user screen. The goal is to implement a rendering pipeline using DirectX on Windows.
 
 # Description:
- - The program should read the 3 video files located in the assets folder that are sent along the assignment and render them on the screen. These videos were decoded to a raw YUV420p pixel format.
+ - The program should read the 3 video files located in the assets folder that are sent along the assignment and render them on the screen. Feel free to decode these videos using the YUV420P pixel format.
  - The surface on which they should be rendered should be a black rectangle with the following dimmension: 1600x900 pixels
  - You can use the library of your choice to read and extract the video frames
  - It is not necessary to output audio, you can ignore it for the purpose of this assignment
